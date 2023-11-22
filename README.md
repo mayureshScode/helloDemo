@@ -1,3 +1,4 @@
 # helloDemo
-This is my first git repositary
+This is my first git repository
+<br>
 author :Mayuresh Shinde
